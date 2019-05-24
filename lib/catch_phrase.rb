@@ -1,4 +1,4 @@
-def catch_phrase
+def catch_phrase(phrase)
   [phrase]="It's-a me, Mario!"
-  phrase
+  return phrase
 end
